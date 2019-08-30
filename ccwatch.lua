@@ -581,16 +581,12 @@ function UNIT_AURA()
 				local _, _, _, _, rank = GetTalentInfo(2, 7)
 				StartTimer(effect, TARGET_ID, 15 * (1 + rank * .1))
 			elseif effect == "Crippling Poison" and class == 'ROGUE' then
-				local _, _, _, _, rank = GetTalentInfo(2, 7)
 				StartTimer(effect, TARGET_ID, 12)
 			elseif effect == "Blackout" and class == 'PRIEST' then
-				local _, _, _, _, rank = GetTalentInfo(2, 7)
 				StartTimer(effect, TARGET_ID, 3)
 			elseif effect == "Impact" and class == 'MAGE' then
-				local _, _, _, _, rank = GetTalentInfo(2, 7)
 				StartTimer(effect, TARGET_ID, 2)
 			elseif effect == "Aftermath" and class == 'WARLOCK' then
-				local _, _, _, _, rank = GetTalentInfo(2, 7)
 				StartTimer(effect, TARGET_ID, 5)
 			end
 		end
