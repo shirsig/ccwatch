@@ -1,3 +1,6 @@
+# The Classic (1.13) version is here: https://www.curseforge.com/wow/addons/ccc
+
+
 # ccwatch (/ccwatch for options)
 ccwatch is a new cc tracker for Vanilla WoW 1.12.
 
