@@ -24,6 +24,7 @@ ccwatch_ACTION = {
 	["gouge"] = {effect="Gouge", duration={4}},
 	["blind"] = {effect="Blind", duration={10}},
 	["sap"] = {effect="Sap", duration={25, 35, 45}},
+	["kick"] = {effect="Improved Kick", duration={2}},
 	["kidney shot"] = {effect="Kidney Shot", duration={0, 1}},
 	["cheap shot"] = {effect="Cheap Shot", duration={4}},
 	["shackle undead"] = {effect="Shackle Undead", duration={30, 40, 50}},
